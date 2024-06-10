@@ -1,6 +1,6 @@
 # 👨‍💻 Profil Pemrograman
 
-![Profile views](https://gpvc.arturio.dev/developerlight)  ![GitHub followers](https://img.shields.io/github/followers/developerlight?style=social)
+![GitHub followers](https://img.shields.io/github/followers/developerlight?style=social)
 
 Halo, nama saya Samsul Muhyidin. Saya adalah seorang developer yang berpengalaman dalam beberapa bahasa pemrograman dan framework.
 
