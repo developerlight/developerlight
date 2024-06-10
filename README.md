@@ -31,6 +31,6 @@ Berikut adalah beberapa framework yang saya gunakan:
 Berikut adalah beberapa database yang saya kuasai:
 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) ![Progress](https://progress-bar.dev/80/?title=progress)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) ![Progress](https://progress-bar.dev/70/?title=progress)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) ![Progress](https://progress-bar.dev/89/?title=progress)
 
 Saya selalu berusaha untuk belajar dan menguasai teknologi baru. Jika Anda memiliki pertanyaan atau ingin berkolaborasi, jangan ragu untuk menghubungi saya. 📫
